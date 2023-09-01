@@ -1,5 +1,4 @@
 - 👋 Hi, I’m horizon crypto
-- 👀 I’m interested in crypto
 -  I’m currently learning github
 
 <!---
