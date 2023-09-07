@@ -1,5 +1,5 @@
 - 👋 Hi, I’m horizon crypto
--  I’m currently learning github and code
+-  I’m currently learning how to code
 
 <!---
 simonkie/simonkie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
