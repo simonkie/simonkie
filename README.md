@@ -1,5 +1,5 @@
 - 👋 Hi, I’m horizon crypto
--  I’m currently learning how to code and do repositories. 
+- I’m currently learning how to code and do repositories. 
 - I am also learning sales with sales lab
 
 <!---
