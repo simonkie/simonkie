@@ -1,4 +1,4 @@
-- 👋 Hi, I’m horizon crypto
+- 👋 Hello, I’m horizon crypto
 - I’m currently learning how to code and do repositories. 
 
 <!---
